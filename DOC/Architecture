@@ -1,0 +1,26 @@
+LAMP PROJECT ARCHITECTURE                                                                            
+
+   Web Browser
+      │
+      ▼
++-------------+
+|   Apache    |
+|    httpd    |
++-------------+
+      │
+      ▼
++-------------+
+|     PHP     |
+| sample.php  |
+| submit.php  |
++-------------+
+      │
+      ▼
++-------------+
+|   MariaDB   |
+|    10.5     |
++-------------+
+      │
+      ▼
+ Web Browser
+                   
