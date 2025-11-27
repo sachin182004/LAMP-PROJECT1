@@ -1,3 +1,21 @@
+
+
+
+![OIP](https://github.com/user-attachments/assets/38e094d0-18c4-4334-abf7-6667c4e1dc03)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 LAMP PROJECT
  
  Introduction:
@@ -9,7 +27,7 @@ LAMP PROJECT
  To deploy a working LAMP-based app that collects form data, processes it with PHP,
  stores it in MariaDB, and returns a success response.
 
- commands used
+ commands used:
  
  1. Linux – Base OS for the server.
  2. Apache (httpd) – Serves PHP pages and handles HTTP requests.
